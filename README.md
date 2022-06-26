@@ -1,4 +1,4 @@
-### Olá! Eu sou o Jilson Martins Junior 👋
+### Olá! Eu sou o Jilson Junior 👋
 <div>
   <a href="https://github.com/jilsonmartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jilsonmartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
